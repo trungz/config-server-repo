@@ -1,0 +1,7 @@
+info:
+  component: app1
+spring:
+  application:
+    name: app1
+management:
+  context_path: /admin
